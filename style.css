@@ -1,0 +1,318 @@
+body {
+	background-image: url('./Imagens/FavIcon/Fundo1.jpg');
+	background-repeat: repeat;
+	background-size: contain;
+	margin: 0;
+	font-family: rubik;
+}
+
+h1 {
+	text-align: center; 
+	font-size: 54px;
+}
+
+h4 {
+	font-weight: bold;
+    font-size: 30px;
+    color: black;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+	max-width: 100%;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	grid-gap: 20px;
+	padding-inline-start: 0;
+	
+}
+
+.card {
+	left: 20px;
+	list-style: none;
+	padding: 40px;
+	color: #222;
+	text-align: center;
+	border-radius: 20px;
+	position: relative;	
+	width: 260px;
+	height: 285px;
+	background-color: rgb(87, 87, 87);
+	cursor: pointer;
+	
+}
+
+.cardGeracao {	
+	list-style: none;
+	padding: 0px;
+	color: #222;
+	border-radius: 40px;
+	position: relative;	
+	width: 100%;
+
+}
+
+.card::after {
+  	content: "";
+  	display: block;
+ 	width: 50%;
+ 	height: 45%;
+ 	border-radius: 100%;
+ 	background-color: #fff;
+ 	opacity: .7;
+ 	position: absolute;
+	top: 15%;
+ 	left: 25%;
+}
+
+.card:hover {
+	animation: bounce 0.5s linear;
+}
+
+.card-title {
+	text-transform: capitalize;
+	margin-bottom: 0px;
+	font-size: 32px;
+	font-weight: normal;
+	position: relative;
+	z-index: 2;
+	top: 40px;
+}
+
+.card-subtitle {
+	margin-top: 5px;
+	color: rgb(0, 0, 0);
+	font-weight: lighter;
+	position: relative;
+	z-index: 2;
+	top: 40px;
+}
+
+.card-image {
+	
+	height: 110px;
+	position: relative;
+	z-index: 2;
+	background-size: contain;
+	top: 25px;
+}
+
+.Abelha {
+	background-color: rgb(160, 247, 133);	
+}
+.Aguia {
+	background-color: rgb(134, 203, 243);	
+}
+.Aranha {
+	background-color: rgb(134, 203, 243);
+}
+.Arraia {
+	background-color: rgb(160, 247, 133);		
+}
+.Baiacu {
+	background-color: rgb(160, 247, 133);			
+}
+.Camaleao {
+	background-color: rgb(160, 247, 133);		
+}
+.Canguru {
+	background-color: rgb(160, 247, 133);			
+}
+.Cisne {
+	background-color: rgb(160, 247, 133);		
+}
+.Cobra {
+	background-color: rgb(134, 203, 243);
+}
+.Coruja {
+	background-color: rgb(134, 203, 243);	
+}
+.Enguia {
+	background-color: rgb(160, 247, 133);			
+}
+.Escorpiao {
+	background-color: rgb(134, 203, 243);
+}
+.Formiga {
+	background-color: rgb(134, 203, 243);
+}
+.Gamba {
+	background-color: rgb(160, 247, 133);		
+}
+.Gorila {
+	background-color: rgb(134, 203, 243);		
+}
+.Guepardo {
+	background-color: rgb(134, 203, 243);	
+}
+.Jacare {
+	background-color: rgb(160, 247, 133);			
+}
+.LeaoMarinho {
+	background-color: rgb(160, 247, 133);	
+}
+.Lobo {
+	background-color: rgb(134, 203, 243);
+}
+.LouvaDeus {
+	background-color: rgb(160, 247, 133);	
+}
+.Macaco {
+	background-color: rgb(134, 203, 243);	
+}
+.Morcego {
+	background-color: rgb(134, 203, 243);	
+}
+.Morsa {
+	background-color: rgb(134, 203, 243);
+}
+.Pantera {
+	background-color: rgb(134, 203, 243);
+}
+.Pinguim {
+	background-color: rgb(160, 247, 133);			
+}
+.PorcoEspinho {
+	background-color: rgb(134, 203, 243);
+}
+.Rinoceronte {
+	background-color: rgb(160, 247, 133);		
+}
+.Sapo {
+	background-color: rgb(160, 247, 133);				
+}
+.Tartaruga {
+	background-color: rgb(160, 247, 133);		
+}
+.Toupeira {
+	background-color: rgb(134, 203, 243);	
+}
+.TubaraoMartelo {
+	background-color: rgb(160, 247, 133);	
+}
+.Urso {
+	background-color: rgb(134, 203, 243);
+}
+.Dragao {
+	background-color: rgb(250, 112, 0);
+}
+.Kraken {
+	background-color: rgb(250, 112, 0);
+}
+.Fenix {
+	background-color: rgb(250, 112, 0);
+}
+.Hydra {
+background-color: rgb(250, 112, 0);
+}
+
+@keyframes modal {
+	from{
+		opacity: 0;
+		transform: translate(0, -60px, 0);
+	}
+	to{
+		opacity: 1;
+		transform: translate(0, 0, 0);
+	}
+}
+
+.mostrar .modal {
+	animation: modal 200ms;
+}
+
+.modal-container{
+	overflow: scroll;
+	width: 100%;
+	height: 100vh;
+	display: none;
+	justify-content: center;
+	align-items:center ;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 1000;	
+
+}
+.modal-container2{
+	overflow: scroll;
+	width: 100%;
+	height: 170vh;
+	display: none;
+	justify-content: center;
+	align-items:center ;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 1000;	
+
+}
+.modal{
+	
+	background-image: url('./Imagens/FavIcon/Fundo1.jpg');
+	width: 90%;
+	height: 90%;
+	min-width: 400px;
+	box-shadow: 0 0 0 10px;
+	display: block;
+	flex-wrap: wrap;
+	justify-content: left;
+	position: absolute;
+}
+
+.modal img{
+	width: 100px;	
+}
+.modal-img{
+	display: flex;
+	width: 100%;
+}
+
+.modal-img img {
+	width: 300px;
+	top: 40px;
+	right: 40px;
+	position: absolute
+}
+.modal p {
+	border:  1px solid red;
+	width: 70%;
+	top: 0;
+	padding:0 20px;
+	z-index: 2000;
+}
+.modal h2 {
+	top: 0;
+	padding:0 20px;
+}
+.modal h3 {
+	top: 0;
+	padding:0 20px;
+	font-size: 50px;
+}
+
+.fechar{
+	position: absolute;
+	font-size: 1.2em;
+	top: -30px;
+	right: -30px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	border: 4px solid rgb(0, 0, 0);
+	color: black;
+	background-color: red;
+	cursor: pointer;
+
+}
+.modal-container.mostrar{
+
+	display: flex;
+
+}
+.modal-container2.mostrar{
+
+	display: flex;
+
+}

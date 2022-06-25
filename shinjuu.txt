@@ -1,0 +1,906 @@
+Shinjus
+
+
+*************Abelha*************
+
+6m de deslocamento de vôo
+
+
+Acertar: proficiência+destreza+2
+
+Dano: 1d4 + destreza + 3
+
+
+Ao acertar um ataque, o dano se torna contínuo venenoso e necrótico, repetindo 1d4 de rodadas
+
+
+- Você não precisa realizar o ataque, apenas rolar o dano. Caso ataque novamente, é zerado o número de rodadas e você pode rolar o d4 de rodadas novamente. 
+
+- Se for um ataque crítico, todos os ataques contínuos subsequentes serão críticos
+
+
+*************Águia*************
+
+Você ganha a visão aguçada da águia. Você pode ver até 5 quilômetros de distância sem dificuldade, podendo diferenciar os menores detalhes como se estivesse olhando para algo a não mais do que 30 metros de você. Além disso, a penumbra não impõe desvantagem nos seus testes de Sabedoria (Percepção).
+
+
+Deslocamento de vôo 18m
+
+
+Vantagens em ataques a distância
+
+
+*************Aranha*************
+
+O portador recebe a habilidade de se mover para cima, para baixo e através de superfícies verticais e de cabeça para baixo pelos tetos, enquanto deixa suas mãos livres. O alvo também ganha deslocamento de escalada igual a seu deslocamento de caminhada.
+
+
+O portador ignora as restrições de movimento causadas pela teia.
+
+
+
+Ataque com Arma à Distância:
+
+Alcance 60/180, um alvo. 
+
+Acertar: Proficiência + Destreza + 2
+
+Dano: 1d6+Destreza+2 de dano de concussão e o alvo é impedido por teia. Com uma ação, a criatura impedida pode fazer um teste de Força (CD 8 + modificador de sabedoria + Proficiência), escapando da teia em um sucesso. O efeito termina se a teia for destruída. 
+
+A teia tem CA 10, 10 pontos de vida, resistência a dano de concussão e imunidade a veneno e dano psíquico.
+
+
+Ataque com Arma à Distância: 
+
+Alcance 60/180, um alvo. 
+
+Acertar: proficiência + Destreza + 2 
+
+Acerto: O alvo é agarrado (CD modificador de sabedoria + proficiência para escapar). 
+
+Até que o agarrão termine, o alvo está impedido e tem desvantagem em testes de Força e testes de resistência de Força .
+
+
+O portador pode puxar uma criatura Grande ou menor agarrada por ele até 7,5m em direção a ele.
+
+
+*************Arraia*************
+
+
+Essa shinju lhe oferece uma espada que você pode invocar por meio de uma ação bônus, caso esteja desarmado, pode realizar um ataque com ela causando 1d8 + o dano mágico dela (2) somando ainda o modificador de força (x)
+
+
+Ataque: Proficiência (x) + 4 (caso tenha invocado ela pela primeira vez) +2 contínuo
+
+
+Dano: 1d8 + 2 dano mágico + força
+
+
+20 natural faz necrosar a parte atingida causando veneno ao portador, e se ele falhar num teste de constituição 
+
+CD: 8 + proficiência + modificador de força
+
+
+Respiração na água
+
+
+*************Baiacu*************
+
+Aumente o seu valor de Força e Constituição em 2, até um total de 20 enquanto a shinju estiver ativa. Caso já seja 20, esse valor pode ser excedido.
+
+
+Seu corpo agora é capaz de se expandir, ao realizar essa expansão, espinhos crescem ao redor dele.
+
+Eles são armas naturais que você pode usar para fazer ataques desarmados, mas funcionam como mágicos para superar qualquer desvantagem. Você pode expandir apenas uma parte específica do seu corpo, como o seu braço.
+
+
+Acertar: Proficiência + Força 
+
+Dano: Perfurante e de concusao, 1d12 +
+
+seu modificador de força 
+
+
+Você ganha um bônus de +1 em sua CA enquanto não estiver usando armaduras.
+
+
+Com uma ação, você pode fazer com
+
+que seu corpo se expanda e brotem os espinhos detodo o seu corpo. Você causa 2d12 + modificador de força, de dano perfurante a qualquer criatura que esteja a 1,5m de você. A criatura é arremessada a 1,5m e deve realizar um teste de força CD 8+proficiência+modificador de sabedoria. Caso o resultado seja -10 a sua CD, ele está caído.
+
+
+Ao acertar um ataque, o dano se torna contínuo venenoso e necrótico, repetindo 1d4 de rodadas (1d4 venenoso + força + 3)
+
+
+- Você não precisa realizar o ataque, apenas rolar o dano. Caso ataque novamente, é zerado o número de rodadas e você pode rolar o d4 de rodadas novamente. 
+
+- Se for um ataque crítico, todos os ataques contínuos subsequentes serão críticos
+
+
+*************Camaleão*************
+
+Essa shinju é capaz de copiar qualquer outra shinju que esteja a um raio de 12 metros, ela também pode deixar seu portador invisível. 
+
+
+Você pode copiar um número de shinjus igual ao seu modificador de sabedoria. Para fazer isso você deve realizar um teste de concentração. Você pode repetir um teste falho uma vez a cada descanso curto. Ao copiar a shinju, ela fica copiada até você liberar a energia. Seus números modificadores funcionam como slots, se todos os slots estiverem ocupados, você pode liberar a energia de um. Caso libere a energia de uma shinju, ela só poderá ser copiada novamente depois de 1d6 de dias.
+
+
+Cargas (Modificador de Sabedoria)
+
+
+Invisibilidade (1 carga)
+
+Qualquer coisa que o portador esteja vestindo ou carregando fica invisível enquanto estiver em sua posse. Essa invisibilidade termina caso você seja algo de um ataque ou conjure uma magia. (Você pode gastar uma carga a mais dessa shinju caso esteja em contato com outro alvo, podendo estender o efeito à ela)
+
+
+Invisibilidade maior (3 cargas)
+
+Você se torna invisível, qualquer coisa que estiver vestindo ou carregando fica invisível enquanto estiver em sua posse. 
+
+(Você usar essa propriedade da shinju caso esteja em contato com outro alvo, podendo estender o efeito à ela)
+
+
+
+*************Canguru*************
+
+Ataque desarmado:
+
+Acertar: Destreza + Proficiência
+
+Dano: 2d6 + Destreza + 3
+
+
+Sempre que acertar um ataque desarmado, você pode realizar um chute como uma ação bônus (Pode usar um número de vezes igual ao seu modificador de sabedoria)
+
+
+Crítico: Quebra o osso do adversário e ele tem desvantagem no próximo ataque
+
+
+Seu salto é dobrado
+
+
+*************Cisne*************
+
+Ao estabilizar uma criatura morrendo, a criatura recupera 1 ponto de vida, ao invés disso.
+
+
+Com uma ação bônus, você pode tocar em uma criatura e restaurar 5d10 + X pontos de vida (X = Seu modificador de sabedoria) mais uma quantidade de pontos de vida adicionais igual ao número total de Dados de Vida da criatura. A criatura não pode recuperar pontos de vida através dessa habilidade novamente até ter terminado um descanso curto ou longo. (O usuário pode usar nele mesmo)
+
+
+Você pode curar 1d6 de vida com uma ação bônus um número de vezes igual ao seu modificador de sabedoria. Pode usar dessa propriedade completa ou dividir em partes. (Ex: Caso tenha +5 sabedoria, pode usar 3 dados e na próxima rodada usar mais 2.) 
+
+
+Alternativamente, você pode gastar uma carga dessa habilidade para proteger um aliado de algum ataque que saia de você. Você gasta uma carga para cada aliado que deseja proteger. 
+
+
+Você também pode gastar 2 usos dessa propriedade para criar um escudo ao seu redor, ou ao redor de um aliado para gerar resistência a um determinado ataque. Se o ataque chegar a CA do alvo deste escudo + O modificador de sabedoria do portador dessa shinju, o escudo é quebrado. 
+
+Ex: Um ataque com uma espada é realizado e o atacante tira 20, sua CA é 15 e o seu modificador de sabedoria é +5, logo, o escudo é quebrado.
+
+
+Se for necessário um saving throw, e o resultado dele for abaixo do esperado - o seu modificador de sabedoria, o escudo também se quebra.
+
+Ex: É necessário um saving throw de destreza CD 18, e o seu modificador de sabedoria é +5. Se a rolagem for 13, o escudo desaparece. 
+
+
+*************Cobra*************
+
+Constrição: 
+
+Acertar: Proficiência+Força, alcance 1,5 m, uma criatura. 
+
+Dano: 1d8 + força de dano de concussão e o alvo está agarrado. Até o agarrão terminar, a criatura estará impedida e a cobra não poderá constringir outro alvo.
+
+Se o alvo não conseguir se soltar, você pode rolar o dano sem acertar a CA dele
+
+
+Percepção às cegas 9m
+
+
+A quantidade de vezes que você pode usar as magias escala de acordo com os espaços de magia para o Druida
+
+
+Truque:
+
+Rajada de veneno:
+
+Você ergue sua mão em direção de uma criatura que você possa ver, dentro do alcance e projeta um sopro de gás tóxico da sua palma. A criatura deve ser bem sucedida num salvaguarda de Constituição ou sofrerá 1d12 de dano venenoso.
+
+O dano dessa magia aumenta em 1d12 quando você alcança o 5° nível (2d12), 11° nível (3d12) e 17° nível (4d12).
+
+
+Nível 1:
+
+Detectar veneno ou doença:
+
+Pela duração, você sente a presença e localização de venenos, criaturas venenosas e doenças a até 9 metros de você. Você também identifica o tipo de veneno, criatura venenosa ou doença em cada caso.
+
+A magia pode penetrar a maioria das barreiras, mas é bloqueada por 30 centímetros de rocha, 2,5 centímetros de metal comum, uma fina camada de chumbo, ou 90 centímetros de madeira ou terra.
+
+
+Nível 2:
+
+Proteção contra veneno:
+
+Você toca uma criatura. Se ela estiver envenenada, você neutraliza o veneno. Se mais de um veneno estiver afligindo o alvo, você neutraliza um veneno, que você saiba estar presente, ou neutraliza um aleatório.
+
+Pela duração, o alvo terá vantagem em testes de resistência para não envenenado e terá resistência a dano venenoso.
+
+
+Nível 6:
+
+Doença plena:
+
+Você introduz uma doença virulenta em uma criatura que você puder ver, dentro do alcance. O alvo deve realizar um salvaguarda de Constituição. Se falhar na resistência, ele sofre 14d6 de dano necrótico ou metade desse dano se obtiver sucesso na resistência. O dano não pode reduzir os pontos de vida do alvo abaixo de 1. Se o alvo falhar no salvaguarda, seu máximo de pontos de vida é reduzidos por 1 hora em uma quantidade igual ao dano necrótico causado. Qualquer efeito que remova uma doença permitirá que o máximo de pontos de vida do alvo volte ao normal antes do período indicado.
+
+
+
+*************Coruja*************
+
+Deslocamento de vôo 18m
+
+Visão no escuro 36m
+
+
+Seu valor de sabedoria se torna 20, caso já seja, você ganha +2 
+
+
+Vantagem em testes de sabedoria (percepção) relacionados a visão e audição
+
+
+(Cargas == Modificador de Sabedoria)
+
+
+Você recebe +5 de bônus em iniciativa. (1 carga)
+
+
+Outras criaturas não ganham vantagem nas jogadas de ataque contra você por não serem visíveis por você.(1 Carga)
+
+
+O portador dessa shinju não provoca ataques de oportunidade quando sai voando para fora do alcance do inimigo (1 Carga)
+
+
+*************Enguia*************
+
+Deslocamento aquático 12m
+
+Constrição: 
+
+Acertar: Proficiência+Força, alcance 1,5 m, uma criatura. 
+
+Dano: 1d8 + força de dano de concussão e o alvo está agarrado. Até o agarrão terminar, a criatura estará impedida e a cobra não poderá constringir outro alvo.
+
+Se o alvo não conseguir se soltar, você pode rolar o dano sem acertar a CA dele
+
+
+A quantidade de vezes que você pode usar as magias escala de acordo com os espaços de magia para o Druida
+
+
+Truques:
+
+- Você cria um açoite de energia elétrica que golpeia uma criatura, à sua escolha, que você possa ver, dentro do alcance. O alvo deve ser bem sucedido num teste de resistência de Força ou será puxado até 3 metros [10 feet] em linha reta na sua direção e então, sofrerá 1d8 de dano elétrico se estiver a até 1,5 metro [5 feet] de você.
+
+O dano dessa magia aumenta em 1d8 quando você alcança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).
+
+
+- Eletricidade surge da sua mão para transmitir um choque em uma criatura que você tentar tocar. Faça um ataque corpo-a-corpo com magia contra o alvo. Você tem vantagem na jogada de ataque se o alvo estiver vestindo qualquer armadura de metal. Se atingir, o alvo sofre 1d8 de dano elétrico e não pode usar reações até o início do próximo turno dele.
+
+
+O dano da magia aumenta em 1d8 quando você alcança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).
+
+
+Nível 3:
+
+(Concentração, Alcance 18m)
+
+- Seu corpo começa a ser envolto por raios, cada criatura que você deseje atingir deve realizar um teste de resistência de Destreza. Uma criatura sofre 3d10 de dano elétrico se falhar no teste, ou metade desse dano se passar. Em cada um dos seus turnos, até a magia acabar (10min), você pode usar sua ação para arremessar um raio novamente.
+
+
+Se você estiver a céu aberto em condições tempestuosas quando conjurar essa habilidade, você receberá uma descarga de energia, e sob tais condições, o dano da magia aumenta em 1d10.
+
+
+Em Níveis Superiores. Se você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d10 para cada nível do espaço acima do 3°.
+
+
+- Da próxima vez que você realizar um ataque com uma arma à distância, a munição da arma ou a própria arma, se ela for uma arma de arremesso, se envolve por raios. Realize uma jogada de ataque normal. O alvo sofre 4d8 de dano elétrico se atingir ou metade desse dano se errar, ao invés do dano normal da arma.
+
+
+Independentemente de você acertar ou errar, cada criatura a até 3 metros do alvo deve realizar um teste de resistência de Destreza. Cada uma dessas criaturas sofre 2d8 de dano elétrico se falhar na resistência ou metade desse dano se obtiver sucesso.
+
+
+Em Níveis Superiores. Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o dano de ambos os efeitos da magia aumenta em 1d8 para cada nível do espaço acima do 3°.
+
+
+- Um relâmpago forma uma linha de 30 metros [100 feet] de comprimento e 1,5 metro [5 feet] de largura que é disparado por você em uma direção, à sua escolha. Cada criatura na linha deve realizar um teste de resistência de Destreza. Uma criatura sofre 8d6 de dano elétrico se falhar na resistência ou metade desse dano se obtiver sucesso.
+
+
+O relâmpago incendeia objetos inflamáveis na área que não estejam sendo vestidos ou carregados.
+
+
+Em Níveis Superiores. Quando você conjurar essa magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 3°.
+
+
+- Uma esfera de 6 metros [20 feet] de raio de ar rodopiante surge do nada, centrada em você. A esfera permanece pela duração (concentração de 1min) da magia. Cada criatura na esfera quando ela aparece ou que termine seu turno nela, deve ser bem sucedida num teste de resistência de destreza ou sofrerá 2d6 de dano de elétrico. Até acabar, você pode usar uma ação bônus em cada um dos seus turnos para fazer com que um relâmpago salte do centro da esfera em direção de uma criatura, à sua escolha, a até 18 metros [60 feet] do centro. Faça um ataque à distância com magia. Você tem vantagem na jogada de ataque se o alvo estiver dentro da esfera. Se atingir, o alvo sofre 4d6 de dano elétrico.
+
+
+Em Níveis Superiores. Quando você conjura essa magia usando um espaço de magia de 5° nível ou superior, o dano dos seus efeitos aumenta em 1d6 para cada nível do espaço acima do 4°.
+
+
+Nível 6:
+
+- Você cria um raio elétrico que atinge um alvo, à sua escolha, que você possa ver dentro do alcance. Três raios saltam do alvo para até três outros alvos, cada um a não mais de 9 metros [30 feet] do alvo primário. Um alvo pode ser uma criatura ou um objeto e só pode ser alvo de um único desses raios.
+
+
+Um alvo deve realizar um teste de resistência de Destreza. O alvo sofre 10d8 de dano elétrico se falhar no teste ou metade desse dano se for bem sucedido.
+
+
+Em Níveis Superiores. Se você conjurar essa magia usando um espaço de magia de 7° nível ou superior, um raio adicional salta do alvo primário para outro alvo para cada nível do espaço acima do 6°.
+
+
+*************Escorpião*************
+
+CA 15
+
+Percepção às cegas 18m
+
+
+O portador dessa shinju pode projetar uma aura de rabo de escorpião, podendo atacar com ela usando sua ação bônus 
+
+
+Ataque Corpo a Corpo com Arma: 
+
+
+Proficiência + Força para acertar, alcance 1,5 m, uma criatura. 
+
+
+Dano: 1d10 + 2 + força de dano perfurante, e o alvo deve fazer um teste de resistência de Constituição CD 8+modificador de sabedoria+proficiência , sofrendo 4d10 de dano de veneno se falhar na resistência, ou metade desse dano se obtiver sucesso.
+
+
+*************Formiga*************
+
+Percepção às cegas 18 m
+
+Vantagem em testes de Sabedoria (Percepção) que dependem do cheiro.
+
+
+Seus ataques causam 1d4 de dano extra.
+
+
+Cargas (Modificador de Sabedoria):
+
+
+Se você passar em um teste de força que te dê dano pela metade, pode gastar essa carga para tomar metade da metade do dano, deve ser usado antes de rolar o dado (1 carga) 
+
+
+Voce ganha vantagens em testes de resistência de força (1 Carga)
+
+
+Você pode escolher passar em um teste de força, mas antes de rolar o dado (2 cargas) 
+
+
+Você pode escolher passar em um teste de força que falhou (3 cargas)
+
+
+Você pode causar 1d4xModificador de sabedoria de dano extra quando realizar um ataque corpo a corpo ou à distância (5 cargas)
+
+
+*************Gambá*************
+
+Você cria uma manopla com tubos que estão saindo do seu corpo
+
+Você é capaz de criar uma nuvem de gás que adquire a propriedade da substância que você desejar
+
+
+*************Gorila*************
+
+Deslocamento de escalada 9m
+
+Seu valor de força se torna 20, caso já seja, você ganha +2 
+
+Proficiência em atletismo
+
+Ataques múltiplos com o punho
+
+Ataque com Arma Corpo a Corpo: 
+
+Alcance, 1,5 m, um alvo. 
+
+Acertar: Proficiência+Força 
+
+Dano: 1d6 + Força + 3 de dano de concussão.
+
+
+*************Guepardo*************
+
+Visão na penumbra 
+
+
+Deslocamento: 21m
+
+
+O portador desta shinju pode detectar oponentes a até 9 metros pelo olfato. 
+
+Se o oponente estiver contra o vento, o alcance aumenta para 18 metros; se estiver a favor do vento, cai para 4,5 metros. 
+
+Odores fortes, como fumaça ou lixo podre, podem ser detectados em duas vezes os intervalos mencionados acima. Aromas avassaladores, como almíscar de gambá ou fedor troglodita, podem ser detectados na faixa normal tripla.
+
+
+Quando uma criatura detecta um cheiro, a localização exata da fonte não é revelada – apenas sua presença em algum lugar dentro do alcance. A criatura pode realizar uma ação de movimento para observar a direção do cheiro.
+
+
+Sempre que a criatura chegar a 1,5 metro da fonte, a criatura aponta a localização da fonte.
+
+
+Uma criatura com o talento Rastrear pode seguir rastros pelo olfato, fazendo um teste de Sabedoria (ou Sobrevivência ) para encontrar ou seguir um rastro. A CD típica para uma trilha fresca é 10 (não importa que tipo de superfície contém o cheiro). Esta CD aumenta ou diminui dependendo de quão forte é o odor, o número de criaturas e a idade da trilha. Para cada hora que a trilha estiver fria, a CD aumenta em 2. A habilidade segue as regras do talento Rastrear. Criaturas rastreadas por cheiro ignoram os efeitos das condições da superfície e baixa visibilidade.
+
+
+A água, principalmente a água corrente, arruína uma trilha para criaturas que respiram ar. Criaturas que respiram água que têm a habilidade de cheiro, no entanto, podem usá-la facilmente na água.
+
+
+Odores falsos e poderosos podem mascarar facilmente outros aromas. A presença de tal odor estraga completamente a capacidade de detectar ou identificar corretamente as criaturas, e a CD de Sobrevivência básica para rastrear se torna 20 em vez de 10.
+
+
+Dois ataques:
+
+2 garras +3 corpo a corpo (1d4+2)
+
+
+• Ao atingir com um ataque de garra depois de usar a investida, o portador pode tentar derrubar o oponente como uma ação livre sem fazer um ataque de toque ou provocar um ataque de oportunidade. Se a tentativa falhar, o oponente não pode reagir para tentar derrubar ele.
+
+
+Corrida: Uma vez por hora, o portador pode se mover dez vezes sua velocidade normal (210 metros)
+
+
+Brevemente envolto por umas faíscas amarelas, você se move tão rápido que parece se teletransportar a até 3 metros para um espaço desocupado que você possa ver. Você reganha o uso desse habilidade após um descanso curto ou longo. Você pode usar essa habilidade um número de vezes igual ao seu modificador de sabedoria.
+
+
+*************Jacaré*************
+
+Deslocamento aquático 9m
+
+Prender a respiração por até uma hora
+
+Armadura natural: CA 17
+
+Vantagens em teste de agarrar quando o inimigo estiver submerso
+
+- Ver o apêndice sobre criaturas agarradas
+
+Visão noturna: 9m
+
+- Vantagens em testes de investigação, percepção e sobrevivência 
+
+
+*************Leão Marinho*************
+
+Deslocamento aquático 18m
+
+
+Você é capaz de reduzir seus batimentos cardíacos e transferir a circulação para órgãos vitais, como cérebro e coração, podendo reduzir seu metabolismo e utilizar um oxigênio armazenado em seu sangue. (Mecanicamente, quando ativar isso, ao ficar com menos de 1 ponto de vida, você permanece em pé até levar outro dano em uma rodada subsequente) Você só pode usar essa habilidade novamente depois de um descanso longo
+
+
+Corpo massivo:
+
+Você consegue aumentar o seu peso um número de vezes igual ao seu modificador de sabedoria, tornando você incapaz de ser empurrado ou movido de lugar por meios físicos (1 carga, você recupera essas cargas depois de um descanso longo)
+
+
+Atacar: Seu valor de força se torna 20 (2 cargas)
+
+Força + Proficiência
+
+
+Dano: 1d6 para cada ponto no seu modificador de sabedoria + Força + 2 de dano se concusivo. 
+
+Caso seja um dano crítico, você deixa o alvo inconsciente por uma rodada
+
+
+*************Lobo*************
+
+Deslocamento 12m
+
+Vantagem em testes de sabedoria (percepção) relacionados a audição e ao olfato.
+
+
+Você pode rastrear outras criaturas enquanto estiver viajando em ritmo acelerado, e você pode mover-se furtivamente enquanto viajar em ritmo normal (veja o capítulo 8 para regras de ritmo de viagem).
+
+
+Você ganha o talento rastrear
+
+
+Você é capaz de multiplicar o seu deslocamento um número de vezes igual ao seu modificador de sabedoria. (Essa multiplicação ocorre depois de somar todos os modificadores, e dura um número de rodadas igual ao seu modificador de sabedoria) (1 carga para cada modificador)
+
+
+Nova ação (2 Cargas)
+
+
+Patas de lobo envolvem suas mãos e funcionam como uma arma corpo à corpo.
+
+Acertar: Proficiência + Força 
+
+Dano: 2d4 + Força + 2
+
+
+
+*************Louva - Deus*************
+
+Sua destreza fica 20, caso já seja, você ganha +2
+
+
+A sua arma te dá 2 ataques 
+
+Acertar: Proficiência + 2 + Destreza
+
+Dano: 1d6 + 2 + Destreza
+
+A distância do seu salto é triplicada enquanto essa shinju estiver ativa
+
+
+Proficiência em acrobacias
+
+
+*************Macaco*************
+
+Deslocamento de escalada 12m
+
+
+Seu valor de destreza se torna 20, caso já seja, você ganha +2 
+
+
+Proficiência em atletismo, prestidigitação e furtividade 
+
+
+O portador dessa shinju pode realizar a ação Desengajar, Esquivar ou Esconder-se como uma ação bônus em cada um de seus turnos, um número de vezes igual ao seu modificador de sabedoria.
+
+
+*************Morcego*************
+
+Percepção as cegas 18m
+
+Deslocamento de voo 9m
+
+
+Vantagens em testes de sabedoria (percepção) relacionados à audição
+
+
+A quantidade de vezes que você pode usar o grito escala de acordo com os espaços de magia para o Druida
+
+
+Grito Sônico: (Todos os ataques são em linha reta, mas você pode usar sua ação bônus para "girar" e alterar o percurso da onda)
+
+
+Truque:
+
+- Você cria uma violenta explosão sonora, que pode ser ouvida a até 30 metros [100 feet] de distância. Cada criatura diferente de você a até 1,5 metro [5 feet] de você deve realizar um teste de resistência de Constituição. Se falhar na resistência, o alvo sofre 1d6 de dano trovejante.
+
+O dano da magia aumenta em 1d6 quando você alcança o 5° nível (2d6), 11° nível (3d6) e 17° nível (4d6).
+
+
+Nível 1:
+
+- Uma onda de força trovejante varre tudo a partir de você. Cada criatura num cubo de 4,5 metros [15-foot cube] originado em você, deve realizar um teste de resistência de Constituição. Se falhar na resistência, uma criatura sofrerá 2d8 de dano trovejante e será empurrada 3 metros [10 feet] para longe de você. Se obtive sucesso na resistência, a criatura sofrerá metade desse dano e não será empurrada.
+
+
+Além disso, objetos soltos que estiverem completamente dentro da área de efeito serão automaticamente empurrados 3 metros [10 feet] para longe de você pelo efeito da magia e a magia emitirá um ressonante barulho de trovão audível a até 90 metros [300 feet].
+
+
+Em Níveis Superiores. Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, o dano aumenta em 1d8 para cada nível acima do 1°
+
+
+Nível 2:
+
+- Você ensurdecer um oponente. Escolha uma criatura que você possa ver dentro do alcance (9m) para fazer um teste de resistência de Constituição. Se ela falhar, ficará surda pela duração (1min). No final de cada um dos turnos dele, o alvo pode realizar um teste de resistência de Constituição. Se obtiver sucesso, o efeito termina.
+
+
+Em Níveis Superiores. Se você conjurar essa magia usando um espaço de magia de 3° nível ou superior, você pode afetar uma criatura adicional para cada nível de espaço acima do 2°.
+
+
+
+*************Morsa*************
+
+Resistência a dano gélido
+
+Deslocamento aquático 12m
+
+
+Você é capaz de reduzir seus batimentos cardíacos e transferir a circulação para órgãos vitais, como cérebro e coração, podendo reduzir seu metabolismo e utilizar um oxigênio armazenado em seu sangue. (Mecanicamente, ao ativar isso, ao ficar com menos de 1 ponto de vida, você permanece em pé até levar outro dano em uma rodada subsequente) Você só pode usar essa habilidade novamente depois de um descanso longo
+
+
+Você ganha uma espada de dois lados que pode ser dividida. Pode invocar por meio de uma ação bônus, caso esteja desarmado
+
+
+Unida:
+
+Acertar: Proficiência + 4(Caso tenha sido invocada pela primeira vez) + Força 
+
+Dano 2d8 + 2 + Força 
+
+
+Separada:
+
+Ataque: Proficiência + Força 
+
+
+Dano: 2d6 + 2 + Força (1d6 para cada espada)
+
+(Ao eliminar um alvo, você pode direcionar a outra espada para um novo que esteja a 1,5m de você, você ganha vantagem ao realizar essa jogada)
+
+
+*************Pantera*************
+
+Deslocamento 15m
+
+
+Vantagem em testes de furtividade quando estiver em um local escuro/penumbra
+
+Vantagens em testes de sabedoria (percepção) relacionados ao olfato
+
+
+Visão no escuro
+
+
+Bote: Se você se mover até 6 metros em linha reta até o alvo, ele tem que realizar um teste de força CD 12, Se o alvo cair no chão, tu pode realizar um ataque com a garra como uma ação bônus
+
+
+Garras de aura:
+
+1d20 + Força + Proficiência = Para atingir
+
+1d4 + Força + 2 = Para o dano
+
+
+Nível 2:
+
+Você pode cegar um oponente. Escolha uma criatura que você possa tocar para fazer um teste de resistência de Constituição. Se ela falhar, ficará cega pela duração (1m). No final de cada um dos turnos dele, o alvo pode realizar um teste de resistência de Constituição. Se obtiver sucesso, a magia termina.
+
+
+Em Níveis Superiores. Se você conjurar essa magia usando um espaço de magia de 3° nível ou superior, você pode afetar uma criatura adicional para cada nível de espaço acima do 2°.
+
+
+
+*************Pinguim*************
+
+12m Deslocamento aquático 
+
+
+Truques: Picada Congelante
+
+Raio de gelo
+
+
+A quantidade de vezes que você pode usar as magias escala de acordo com os espaços de magia para o Druida
+
+
+Nível 1: 
+
+- Você cria um fragmento de gelo e arremessa-o em uma criatura dentro do alcance. Faça um ataque à distância com magia contra o alvo. Se atingir, o alvo sofre 1d10 de dano perfurante. Atingindo ou errando, o fragmento explode. O alvo e cada criatura a até 1,5 metro [5 feet] do ponto onde o gelo explodiu deve ser bem sucedido num teste de resistência de Destreza ou sofrerá 2d6 de dano de frio.
+
+
+Em Níveis Superiores. Quando você conjura essa magia usando um espaço de magia de 2° nível ou superior, o dano de frio aumenta em 1d6 para cada nível do espaço acima do 1°.
+
+
+- Um raio frigido de luz azul clara parte em direção de uma criatura, dentro do alcance (18m). Realize um ataque à distância com magia contra o alvo. Se atingir, ele sofre 1d8 de dano de frio e seu deslocamento é reduzido em 3 metros [10 feet] até o começo do seu próximo turno.
+
+
+O dano da magia aumenta em 1d8 quando você alcança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).
+
+
+Nível 4: 
+
+- Uma rajada de pedras de gelo batem no chão em um cilindro de 6 metros de raio [20-foot radius] por 12 metros de altura [40-foot-high], centrado num ponto dentro do alcance (36m). Cada criatura no cilindro deve realizar um teste de resistência de Destreza. Uma criatura sofre 2d8 de dano de concussão e 4d6 de dano de frio se falhar na resistência ou metade desse dano se obtiver sucesso.
+
+
+O granizo torna a área da tempestade em terreno difícil até o final do seu próximo turno.
+
+
+Em Níveis Superiores. Quando você conjurar essa magia usando um espaço de magia de 5° nível ou superior, o dano de concussão aumenta em 1d8 para cada nível do espaço acima do 4°.
+
+
+Nível 6: Nevasca
+
+- Uma chuva congelante e neve caem num cilindro de 6 metros de altura [20-foot-tall] por 12 metros de raio [40-foot radius], centrado num ponto, à sua escolha, dentro do alcance. A área é de escuridão densa e, chamas expostas na área são extintas.
+
+
+O solo na área é coberto por gelo escorregadio, tornando-o terreno difícil. Quando uma criatura entrar na área da magia pela primeira vez num turno ou começar seu turno nela, ela deve realizar um teste de resistência de Destreza. Se falhar, cairá no chão.
+
+
+Se um, criatura estiver se concentrando na área da magia, a criatura deve realizar um teste de resistência de Constituição contra a CD da magia, ou perderá a concentração.
+
+
+Nível 5:
+
+- Uma explosão de ar frio irrompe de suas mãos. Cada criatura em um cone de 18 metros [60 pés] deve fazer um teste de resistência da Constituição. Uma criatura recebe 8d8 de dano de frio em um teste falhado, ou metade do dano em um bem sucedido.
+
+
+Uma criatura morta por essa magia se torna uma estátua congelada até derreter.
+
+
+Em Níveis Superiores. Se você conjurar essa magia usando um espaço de magia de 6° nível ou superior, o dano aumenta em 1d8 para cada nível do espaço acima do 5°.
+
+
+Nível 6: 
+
+- Um globo frigido de energia gelada é arremessado das pontas dos seus dedos para um ponto, à sua escolha, dentro do alcance, onde ele explode numa esfera de 18 metros [60 feet] de raio. Cada criatura dentro da área deve realizar um teste de resistência de Constituição. Se falhar na resistência, uma criatura sofre 10d6 de dano de frio. Se obtiver sucesso na resistência, ela sofre metade desse dano.
+
+
+Se o globo atingir um corpo de água ou liquido composto principalmente de água (não incluindo criaturas feitas de água), ele congela o líquido até uma profundidade de 15 centímetros [6 inches] numa área de 9 metros quadrados [30 feet square]. Esse gelo dura por 1 minuto. Criaturas que estiverem nadando na superfície de água congelada estarão presas no gelo. Uma criatura presa pode usar sua ação para realizar um teste de Força contra a CD da magia para se libertar.
+
+
+Você pode evitar de disparar o globo após completar a magia, se desejar. Um pequeno globo, do tamanho de uma pedra de funda, frio ao toque, aparece em sua mão. A qualquer momento, você ou uma criatura a quem você entregar o globo, pode arremessa-lo (a uma distância de 18 metros) ou atirá-lo com uma funda (ao alcance normal da funda). Ele se despedaça no impacto, produzindo o mesmo efeito da conjuração normal da magia. Você pode, também, soltar o globo no chão sem despedaça-lo. Após 1 minuto, se o globo ainda não tiver se despedaçado, ele explode.
+
+
+Em Níveis Superiores. Quando você conjurar essa magia usando um espaço de magia de 7° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 6°.
+
+
+
+- Até a magia acabar (Concentração, até 1 minuto), gelo cobre seu corpo, e você ganha os seguintes benefícios: 
+
+
+Você é imune a dano de frio e tem resistência a dano de fogo.
+
+Você pode se mover por terreno difícil criado por gelo ou neve sem gastar movimento extra.
+
+O solo em um raio de 3 metros [10-foot radius] a sua volta é gelado e é terreno difícil para criaturas diferentes de você. O raio se move com você.
+
+Você pode usar sua ação para criar um cone de 4,5 metros [15-foot cone] de vento gélido se estendendo da ponta da sua mão em uma direção de sua escolha. Cada criatura no cone deve realizar um teste de resistência de Constituição. Uma criatura sofre 4d6 de dano de frio se falhar na resistência, ou metade desse dano se obtiver sucesso. Uma criatura que falhe na resistência contra esse efeito tem seu deslocamento reduzido à metade até o início do seu próximo turno.
+
+
+
+- Você cria uma muralha de gelo numa superfície sólida dentro do alcance. Você pode molda-la em uma cúpula hemisférica ou uma esfera com um raio de até dez painéis de 3 metros [10 feet] por 3 metros [10 feet]. Cada painel deve ser contíguo com outro painel. Em qualquer formato, a muralha terá 30 centímetros [1 foot] de espessura. Ela permanece pela duração (Concentração até 10m).
+
+
+Se a muralha passar pelo espaço ocupado por uma criatura quando ela surgir, a criatura na área será empurrada para um dos lados da muralha (você escolhe qual lado) e deve realizar um teste de resistência de Destreza. Se falhar na resistência, a criatura sofrerá 10d6 de dano de frio ou metade desse dano se passar na resistência.
+
+
+A muralha é um objeto que pode ser danificado e então, partido. Ela tem CA 12, 30 pontos de vida por seção de 3 metros [10 feet] e é vulnerável a dano de fogo. Reduzir os pontos de vida de uma seção de 3 metros [10 feet] da muralha a 0 destruirá essa seção, deixando para trás uma camada de ar gelado no espaço ocupado pela muralha. Uma criatura que atravesse a camada de ar gelado pela primeira vez num turno, deve realizar um teste de resistência de Constituição. Essa criatura sofrerá 5d6 de dano de frio se fracassar na resistência, ou metade desse dano se obtiver sucesso.
+
+
+Em Níveis Superiores. Quando você conjurar essa magia usando um espaço de magia de 7° nível ou superior, o dano causado quando ela aparece aumenta em 2d6 e o dano por atravessar através da camada de ar gelado aumenta em 1d6 para cada nível do espaço acima do 6°.
+
+
+*************Porco Espinho*************
+
+Aumente o seu valor de Força e Constituição em 2, até um total de 20 enquanto a shinju estiver ativa. Caso já seja 20, esse valor pode ser excedido.
+
+
+Crescem em suas mãos espinhos retráteis.
+
+Mostrá-los ou guardá-los não requer ação. Eles são armas naturais que você pode usar para fazer ataques desarmados, mas funcionam como mágicos para superar qualquer desvantagem. 
+
+
+Acertar: Proficiência + Força (Destreza se arremessar o espinho)
+
+Dano: Perfurante de 1d8 + seu modificador
+
+
+Você ganha um bônus de +3 em sua CA enquanto não estiver usando armaduras e ativar seus espinhos.
+
+
+Com uma ação bônus, você pode fazer com que pequenas farpas brotem ou retraiam de todo o seu corpo. No início de cada um dos seus turnos e no turno do oponente, enquanto os espinhos estiverem para fora, você causa 1d8 de dano perfurante a qualquer criatura que lhe agarrou ou que você esteja agarrando. Caso você tente atacar ele com sua ação e acerte sua CA, seu ataque é considerado crítico.
+
+
+Você pode soltar seus espinhos em uma esfera de 6 metros, atingindo toda e qualquer criatura neste raio um número de vezes igual ao seu modificador de sabedoria. Essas criaturas devem realizar um saving throw de destreza, tomando 3d8 de dano perfurante, ou metade dele se passar no teste.
+
+
+Você ganha proficiência na perícia Intimidação quando mostrar seus espinhos. Se você já é proficiente nela, você soma o dobro do seu bônus de proficiência em testes que fizer com essa perícia.
+
+
+*************Rinoceronte*************
+
+Seu valor de força se torna 20, caso ele já seja, você recebe +2
+
+C.A: 19
+
+
+Chifre no punho da armadura:
+
+Acertar: Proficiência+Força 
+
+Dano: 1d6+Força+1
+
+
+Ao percorrer no mínimo 3m, e realizar um ataque desarmado (Ou concusivo) em um alvo, você pode solicitar um saving throw de força CD 8+Proficiência+Força. Caso o alvo falhe, leva 1d8 de concussão e é derrubado.
+
+(Você pode somar 1d4 adicional por cada ponto no seu modificador de sabedoria)
+
+
+*************Sapo*************
+
+Deslocamento aquático 9m
+
+Salto parado, o portador desta shinju pode 
+
+
+O portador desta shinju se torna imune a dano de veneno e à condição de envenenado.
+
+
+Ao ativar a shinjus, você ganha o aspecto "Pele Venenosa", Qualquer criatura que o agarre ou entre em contato direto com sua pele deve ser bem sucedida em um teste de resistência de Constituição CD 8+Proficiência+Modificador de sabedoria ou ficará envenenada por 1 minuto. Uma criatura envenenada que não esteja mais em contato direto com você pode repetir o teste de resistência no final de cada um de seus turnos, terminando o efeito em si mesma em caso de sucesso.
+
+
+Você também pode aplicar este veneno ao seu chicote. O alvo deve ser bem sucedido em um teste de resistência de Constituição CD 8+proficiência+modificador de sabedoria ou sofrerá 2d4 extra de dano de veneno.
+
+
+Chicote: 
+
+Acertar: Proficiência + Ou destreza ou força 
+
+Dano: 1d8 Cortante + Ou força ou destreza + 2
+
+
+*************Tartaruga*************
+
+Deslocamento na água 9m
+
+Respiração em baixo d'água 30m
+
+15 de CA Natural
+
+Armadura ativa: 10 + Des + Const 
+
+Escudo é bonus action e da +2
+
+
+*************Toupeira*************
+
+Deslocamento de escavação 9m
+
+Vantagem em testes de sabedoria percepção relacionados ao olfato
+
+Visão no escuro 9m
+
+
+O portador dessa shinju pode projetar as garras de uma toupeira em forma de aura.
+
+
+Ataques múltiplos com as garra 
+
+Ataque corpo a corpo com arma:
+
+Acertar: Proficiência+Força
+
+Dano: 2d4+2+Força 
+
+
+*************Tubarão - Martelo*************
+
+12m de deslocamento aquático 
+
+
+Frenesi de Sangue: Um número de vezes igual ao seu modificador de sabedoria você ganha vantagem nas jogadas corpo a corpo contra qualquer criatura que não esteja com todos os seus pontos de vida. Você recupera os usos dessa habilidade após um descanso longo.
+
+
+Se você já tiver vantagem e acertar o ataque contra o inimigo, o seu ataque é considerado crítico 
+
+
+Respiração embaixo d'água
+
+Vantagem em testes de inteligência (Investigação) ou sabedoria (Percepção) que tenham sangue (E usem o olfato)
+
+
+Martelo de Guerra:
+
+Dano de ataque: d20 + proficiência + força 
+
+1d10 de concussão (Versátil 1d12) + 2 dano mágico 
+
+
+*************Urso*************
+
+ 
+
+Sua capacidade de carga (incluindo a carga máxima e máximo que pode-se erguer) é dobrada, e você tem vantagem nos testes de Força feitos para empurrar, puxar, erguer e quebrar objetos.
+
+
+Garras. Ataque Corpo-a-Corpo com Arma:
+
+Atacar: Proficiência + Força 
+
+Dano: 2d6 + Força + 3 de dano cortante.
+
+
+Deslocamento de escalada 9 m
+
+
+Você tem vantagem em testes de Sabedoria (Percepção) relacionados ao olfato. 
+
+
+Você tem um 1d10+Modificador de Sabedoria de pontos de vida temporários para cada modificador de sabedoria. 
