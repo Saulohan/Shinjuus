@@ -1,9 +1,19 @@
 body {
-	background-image: url('./Imagens/FavIcon/Fundo1.jpg');
-	background-repeat: repeat;
-	background-size: contain;
-	margin: 0;
+
+	background-color: #202023;
 	font-family: rubik;
+}
+h1{
+	color: white;
+}
+.desktop{
+	margin: 0;
+	padding: 0 10px;
+
+}
+.celular{
+	padding: 0 120px;
+	margin: 0px;
 }
 
 h1 {
@@ -249,8 +259,8 @@ background-color: rgb(250, 112, 0);
 
 }
 .modal{
-	
-	background-image: url('./Imagens/FavIcon/Fundo1.jpg');
+
+	background-color: #FDF6E3;
 	width: 90%;
 	height: 90%;
 	min-width: 400px;
@@ -262,21 +272,31 @@ background-color: rgb(250, 112, 0);
 }
 
 .modal img{
-	width: 100px;	
+	width: 150px;	
 }
 .modal-img{
 	display: flex;
 	width: 100%;
 }
+.modalpedra-img{
+	display: flex;
+	width: 100%;
+}
+.modalpedra-img img{
+	width: 200px;
+	top: 450px;
+	right: 10px;
+	position: absolute;
+	
+}
 
 .modal-img img {
 	width: 300px;
 	top: 40px;
-	right: 40px;
+	right: 20px;
 	position: absolute
 }
 .modal p {
-	border:  1px solid red;
 	width: 70%;
 	top: 0;
 	padding:0 20px;
