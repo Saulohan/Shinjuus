@@ -3,6 +3,9 @@ body {
 	background-color: #202023;
 	font-family: rubik;
 }
+a{
+	text-decoration: none;
+}
 h1{
 	color: white;
 }
@@ -232,20 +235,35 @@ background-color: rgb(250, 112, 0);
 	animation: modal 200ms;
 }
 
-.modal-container{
+.modal-containerP{
 	overflow: scroll;
 	width: 100%;
-	height: 170vh;
+	height: 70vh;
 	display: none;
 	justify-content: center;
 	align-items:center ;
-	position: fixed;
+	position: absolute;
 	top: 0px;
 	left: 0px;
 	z-index: 1000;	
 
 }
-.modal-container2{
+
+.modal-containerM{
+	overflow: scroll;
+	width: 100%;
+	height: 130vh;
+	display: none;
+	justify-content: center;
+	align-items:center ;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 1000;	
+
+}
+
+.modal-containerG{
 	overflow: scroll;
 	width: 100%;
 	height: 170vh;
@@ -326,12 +344,17 @@ background-color: rgb(250, 112, 0);
 	cursor: pointer;
 
 }
-.modal-container.mostrar{
+.modal-containerP.mostrar{
 
 	display: flex;
 
 }
-.modal-container2.mostrar{
+.modal-containerM.mostrar{
+
+	display: flex;
+
+}
+.modal-containerG.mostrar{
 
 	display: flex;
 
