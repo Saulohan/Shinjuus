@@ -90,7 +90,7 @@ h4 {
 	font-weight: normal;
 	position: relative;
 	z-index: 2;
-	top: 40px;
+	top: 10px;
 }
 
 .card-subtitle {
@@ -99,16 +99,16 @@ h4 {
 	font-weight: lighter;
 	position: relative;
 	z-index: 2;
-	top: 40px;
+	top: 10px;
 }
 
 .card-image {
-	
-	height: 110px;
+	align-items: center;
+	height: 180px;
 	position: relative;
 	z-index: 2;
 	background-size: contain;
-	top: 25px;
+	top: 5px;
 }
 
 .Abelha {
@@ -306,6 +306,7 @@ background-color: rgb(250, 112, 0);
 	width: 150px;	
 }
 .modal-img{
+	
 	display: flex;
 	width: 100%;
 }
@@ -314,7 +315,7 @@ background-color: rgb(250, 112, 0);
 	width: 100%;
 }
 .modalpedra-img img{
-	width: 200px;
+	width: 300px;
 	top: 450px;
 	right: 10px;
 	position: absolute;
