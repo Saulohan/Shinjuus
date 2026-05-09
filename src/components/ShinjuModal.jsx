@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { categoriaSingular } from "../data/categorias.js";
 import { onImagemEmbreveFallback, urlPedraImagem } from "../utils/pedraImagem.js";
+import { publicAssetUrl } from "../utils/publicAssetUrl.js";
 
 export default function ShinjuModal({ shinju, onClose }) {
   useEffect(() => {
@@ -56,7 +57,12 @@ export default function ShinjuModal({ shinju, onClose }) {
         <div className="modal-content">
           <header className="modal-hero">
             <figure className="modal-figure">
-              <img src={shinju.imagem} alt={shinju.nome} loading="lazy" onError={onImagemEmbreveFallback} />
+              <img
+                src={publicAssetUrl(shinju.imagem)}
+                alt={shinju.nome}
+                loading="lazy"
+                onError={onImagemEmbreveFallback}
+              />
             </figure>
             <div className="modal-hero-meta">
               <p className="modal-categoria">{categoriaSingular(shinju.categoria)}</p>

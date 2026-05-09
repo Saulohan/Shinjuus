@@ -1,11 +1,11 @@
 /**
- * Placeholder partilhado (capa, modal, pedra) e URL em `/Imagens/Pedra/`.
+ * Placeholder partilhado (capa, modal, pedra) e URL em `Imagens/Pedra/`.
  * Convenção do ficheiro: nome da shinju sem espaços + `.png`. Se não existir, o `onError` da `<img>` troca para `IMAGEM_EMBREVE`.
  */
 
-export const IMAGEM_EMBREVE = "/Imagens/FavIcon/embreve.png";
+import { publicAssetUrl } from "./publicAssetUrl.js";
 
-const PEDRA_PREFIXO = "/Imagens/Pedra/";
+export const IMAGEM_EMBREVE = publicAssetUrl("Imagens/FavIcon/embreve.png");
 
 /** Troca `src` uma vez; evita loop se `embreve.png` falhar. */
 export function onImagemEmbreveFallback(event) {
@@ -19,5 +19,5 @@ export function onImagemEmbreveFallback(event) {
 export function urlPedraImagem(nome) {
   const base = String(nome ?? "").replace(/\s+/g, "");
   if (!base) return IMAGEM_EMBREVE;
-  return `${PEDRA_PREFIXO}${base}.png`;
+  return publicAssetUrl(`Imagens/Pedra/${base}.png`);
 }
