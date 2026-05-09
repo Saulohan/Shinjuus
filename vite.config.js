@@ -47,6 +47,7 @@ function imagensPublic() {
 }
 
 export default defineConfig({
+  base: '/Shinjuus/',
   server: {
     port: 5173,
   },
